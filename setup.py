@@ -6,7 +6,7 @@ setup(
     name='Collectfast',
     description='Collectstatic on Steroids',
     version='0.2.3',
-    long_description=open('README.rst', encoding='utf-8').read(),
+    long_description=open('README.rst').read(),
     author='Anton Agestam',
     author_email='msn@antonagestam.se',
     packages=find_packages(),
